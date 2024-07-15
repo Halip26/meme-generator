@@ -43,3 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   listGallery.addEventListener("click", remove, false);
 });
+
+// update the copyrightYear automatically
+const currentYear = new Date().getFullYear();
+document.getElementById("currentYear").textContent = currentYear;
