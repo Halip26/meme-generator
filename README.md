@@ -20,7 +20,7 @@ Insanely fast, mobile-friendly meme generator. Create your own unique memes with
 
 The Meme Generator is a web application that allows users to create custom memes by adding text to images. Whether you want to create a hilarious meme or share a witty caption, this tool has you covered.
 
-![Example Meme](example-meme.png)
+![Example Meme](images/favicon.png)
 
 ## Getting Started
 
